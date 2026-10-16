@@ -1,86 +1,107 @@
+<!-- Responsive space-themed GitHub Profile README -->
 <div align="center">
 
-# 🌌 Rasel Khan · `@code9xrs-hub`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,45:111C44,100:6D28D9&text=RASEL%20KHAN&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=14&animation=twinkling" width="100%" alt="Rasel Khan — space themed profile banner" />
 
-[[https://img.shields.io/badge/MISSION_CONTROL-@code9xrs--hub-0B0F19?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=050811]](https://github.com/code9xrs-hub/)
-[[https://img.shields.io/badge/ORBIT_STATUS-BUILDING_NEXT--GEN_WEB_APPS-0B0F19?style=for-the-badge&logo=rocket&logoColor=A855F7&labelColor=050811]](https://github.com/code9xrs-hub?tab=repositories)
-[[https://img.shields.io/badge/SECTOR-FULL--STACK_%26_STREAMING_SYSTEMS-0B0F19?style=for-the-badge&logo=satellite&logoColor=38BDF8&labelColor=050811]](https://github.com/code9xrs-hub/)
+<a href="https://github.com/code9xrs-hub"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=8B9CFF&center=true&vCenter=true&width=600&lines=Building+for+the+web+and+beyond+%F0%9F%9A%80;Turning+ideas+into+useful+software;Exploring+modern+web+technologies;Always+learning.+Always+building." width="100%" alt="Animated developer tagline" /></a>
 
-> **Full-Stack Web Developer & Streaming Platform Architect** — Engineering fast, modern web applications, media streaming ecosystems, and scalable backend services across the digital cosmos.
+<a href="https://github.com/code9xrs-hub"><img src="https://img.shields.io/badge/GitHub-code9xrs--hub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/code9xrs-hub?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-6D28D9?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore projects" /></a>
 
 </div>
 
-## 🛰️ Mission Telemetry
+---
 
-```typescript
-interface SpaceStationTelemetry {
-  commander: string;
-  callsign: string;
-  sector: string;
-  corePropulsion: string[];
-  dataCores: string[];
-  activeMissions: Record<string, string>;
-  commendations: string[];
-  currentObjective: string;
-}
+## 🌌 About Me
 
-const code9xrsHub: SpaceStationTelemetry = {
-  commander: "Rasel Khan",
-  callsign: "@code9xrs-hub",
-  sector: "Full-Stack Web Development & Media Streaming Architecture",
-  corePropulsion: [
-    "HTML5", "CSS3", "Tailwind CSS",
-    "JavaScript (ES6+)", "TypeScript",
-    "React 19", "Node.js", "PHP"
-  ],
-  dataCores: ["SQL (MySQL / PostgreSQL)", "Firebase", "GraphQL", "REST APIs"],
-  activeMissions: {
-    Animora: "React 19 + TypeScript + AniList GraphQL v2 Streaming Platform",
-    Velqore: "Firebase + TMDB API Netflix-Style PWA & Admin Dashboard",
-    AnixPlay: "Modular Streaming Template with Extension Provider Support",
-    MediaCDN: "PHP Media Delivery & Asset Routing Infrastructure"
-  },
-  commendations: ["Pull Shark 🦈", "YOLO 🚀"],
-  currentObjective: "Architecting low-latency media platforms & resilient full-stack web systems"
-};
-```
+Hey! I'm **Rasel Khan** — a developer who enjoys building modern web experiences, streaming-platform interfaces, and practical tools. I like experimenting with new technologies, refining UI/UX, and turning ideas into projects people can explore.
 
-## 🚀 Propulsion & Tech Stack
+- 🚀 Building web apps and content-discovery experiences
+- 🎨 Interested in clean UI, responsive layouts, and thoughtful interactions
+- 🧩 Working across frontend, backend, and API integrations
+- 🌱 Always learning and improving through hands-on projects
+- 🤝 Open to learning, collaboration, and useful open-source ideas
 
-| System Layer | Technologies & Instruments |
-| :--- | :--- |
-| **Frontend & UI Orbit** | [https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white] [https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white] [https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white] [https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black] [https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white] [https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB] [https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white] [https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white] |
-| **Backend & Thrusters** | [https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white] [https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white] [https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white] [https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white] |
-| **Data Cores & Cloud** | [https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white] [https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white] [https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black] |
-| **Navigation & Ops** | [https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white] [https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white] [https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white] [https://img.shields.io/badge/Media_CDN-0EA5E9?style=for-the-badge&logo=cloudflare&logoColor=white] |
+---
 
-## 🪐 Featured Orbital Missions
+## 🪐 Featured Projects
 
-| Mission / Repository | Primary Tech | Architecture & Mission Brief |
-| :--- | :--- | :--- |
-| **[🎬 Animora](https://github.com/code9xrs-hub/animora)** | `TypeScript` · `React 19` · `Tailwind CSS` | Next-generation anime and movie streaming platform powered by Vite, AniList GraphQL v2, and the Mirror-Box API. |
-| **[🚀 Velqore](https://github.com/code9xrs-hub/velqore)** | `HTML5` · `Firebase` · `TMDB API` | Netflix-style streaming platform featuring real-time content management, Progressive Web App (PWA) support, and a full admin dashboard. |
-| **[✨ AnixPlay](https://github.com/code9xrs-hub/anixplay)** | `Web Template` · `Extension API` | Modular movie, series, and anime streaming template engineered with pluggable extension provider support. |
-| **[🛰️ Media-CDN](https://github.com/code9xrs-hub/media-cdn)** | `PHP` · `CDN Routing` | Backend media content delivery and asset routing engine built to serve high-throughput streaming applications. |
-| **[🔗 AniLink](https://github.com/code9xrs-hub/AniLink)** | `TypeScript` · `REST / GraphQL` | Cross-platform anime ID and episode mapping API bridging AniDB, TVDB, TMDB, AniList, MyAnimeList, and Kitsu. |
+### 🎞️ [Animora](https://github.com/code9xrs-hub/animora)
+A modern anime and movie streaming interface built around discovery, metadata, and a cinema-inspired experience.
 
-## ☄️ Deep-Space Engineering Focus
+- **Live demo:** [animora-b3477.web.app](https://animora-b3477.web.app)
+- **Tech:** React · TypeScript · Tailwind CSS
 
-* **Craft responsive, high-frame-rate interfaces** using [React 19](https://github.com/code9xrs-hub/animora), TypeScript, Tailwind CSS, and modern HTML5/CSS3 standards.
-* **Architect full-stack backend services and APIs** with Node.js and [PHP](https://github.com/code9xrs-hub/media-cdn) for low-latency content delivery and media routing.
-* **Model relational and real-time data stores** across SQL databases and [Firebase](https://github.com/code9xrs-hub/velqore) to support user authentication, watchlists, and live admin dashboards.
-* **Unify multi-provider metadata pipelines** by integrating GraphQL (AniList v2), TMDB, and cross-registry mapping APIs like [AniLink](https://github.com/code9xrs-hub/AniLink).
+### 📺 [Velqore](https://github.com/code9xrs-hub/velqore)
+A Netflix-inspired streaming platform concept with a premium dark interface, Firebase integration, PWA support, and an admin dashboard.
 
-## 📊 Galactic Activity & Diagnostics
+- **Live demo:** [velqore.vercel.app](https://velqore.vercel.app)
+- **Tech:** HTML · JavaScript · Firebase · TMDB
+
+### ▶️ [AnixPlay](https://github.com/code9xrs-hub/anixplay)
+A streaming project for movies, series, and anime, with extension-provider support.
+
+- **Source code:** [github.com/code9xrs-hub/anixplay](https://github.com/code9xrs-hub/anixplay)
+
+[**Explore all repositories →**](https://github.com/code9xrs-hub?tab=repositories)
+
+---
+
+## 🛠️ Tech Universe
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,sql" width="100%" alt="HTML, CSS, JavaScript, TypeScript, Python, PHP and SQL" />
+</p>
+
+**Frameworks & Runtime**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind" width="100%" alt="React, Node.js, Vite and Tailwind CSS" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,cloudflare,linux,vscode" width="100%" alt="Git, GitHub, Firebase, Vercel, Cloudflare, Linux and VS Code" />
+</p>
+
+*Also exploring API integration, responsive design, and Android development.*
+
+---
+
+## 📡 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code9xrs-hub&show_icons=true&hide_border=true&bg_color=050816&title_color=8B9CFF&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" width="100%" alt="GitHub statistics for code9xrs-hub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code9xrs-hub&layout=compact&hide_border=true&bg_color=050816&title_color=8B9CFF&text_color=CBD5E1" width="100%" alt="Most used languages on public repositories" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=code9xrs-hub&hide_border=true&background=050816&ring=8B9CFF&fire=38BDF8&currStreakLabel=CBD5E1&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="100%" alt="GitHub contribution streak" />
+</div>
+
+<p align="center"><sub>Stats are generated by third-party services and may occasionally be unavailable or delayed.</sub></p>
+
+---
+
+## 🛰️ Let's Connect
+
+Want to talk about projects, share ideas, or collaborate? Find me here:
+
+<p>
+  <a href="https://github.com/code9xrs-hub"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/code9xrs-hub?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-6D28D9?style=for-the-badge&logo=github" alt="Repositories" /></a>
+</p>
 
 <div align="center">
 
-[[https://streak-stats.demolab.com?user=code9xrs-hub&theme=tokyonight&hide_border=true&background=0B0F19&ring=00F0FF&fire=A855F7&currStreakLabel=38BDF8]](https://github.com/code9xrs-hub/)
+### ✨ Keep exploring. Keep building. The universe is the limit. 🌠
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:6D28D9,50:111C44,100:050816" width="100%" alt="Space gradient footer" />
 
 </div>
-
-## 📡 Establish Subspace Communication
-
-* **GitHub Command Center:** [github.com/code9xrs-hub](https://github.com/code9xrs-hub/)
-* **Mission Repositories:** [Explore all public repositories](https://github.com/code9xrs-hub?tab=repositories)
-* **Direct Transmission:** Open an issue or pull request on any active [repository](https://github.com/code9xrs-hub?tab=repositories) to collaborate on full-stack web or streaming projects.
