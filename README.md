@@ -29,7 +29,7 @@ Hey! I'm **Rasel Khan** — a developer who enjoys building modern web experienc
 ### 🎞️ [Animora](https://github.com/code9xrs-hub/animora)
 A modern anime and movie streaming interface built around discovery, metadata, and a cinema-inspired experience.
 
-- **Live demo:** [animora-b3477.web.app](https://animora-b3477.web.app)
+- **Live demo:** [animora.web.app](https://animora.web.app)
 - **Tech:** React · TypeScript · Tailwind CSS
 
 ### 📺 [Velqore](https://github.com/code9xrs-hub/velqore)
